@@ -8,9 +8,6 @@
 -->
 
 
-- ✨I’m currently working on Gift of the Gab
-- 🌱 I’m currently learning Django and Competitive Programming
-- 💬 Ask me about Web devlopment
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/manali-chaudhari/) | [Gmail](mailto:manalipc10@gmail.com)
 - 😄 Pronouns: She/her
 
