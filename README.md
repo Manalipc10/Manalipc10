@@ -30,29 +30,33 @@
 
 ### ⚙️ What I Work With
 
-| **Domain** | **Tools & Frameworks** |
-|-------------|-------------------------|
-| 🧠 Data Science | Python, R, Pandas, Scikit-learn, Matplotlib |
-| 🤖 AI & NLP | Hugging Face, Groq, OpenAI, LlamaIndex |
-| 💾 Data Engineering | Apache Kafka, AWS (S3, Glue, Athena), SQL |
-| 📊 Visualization | Power BI, Tableau, Streamlit |
-| 🌐 Web & Automation | FastAPI, React, n8n, Docker, Kubernetes |
+#### 🧠 Data Science & Machine Learning
+Python · R · Scikit-learn · Pandas · NumPy · Matplotlib · Hugging Face · Groq · OpenAI · LlamaIndex  
+Focus: Predictive modeling, NLP pipelines, semantic retrieval, and feature engineering.
+
+#### 📊 Data Analysis & Business Intelligence
+Power BI · Tableau · Excel · DAX · Power Query · SQL · Statistical Analysis  
+Focus: Dashboard design, KPI modeling, trend forecasting, and data storytelling for business stakeholders.
+
+#### 💾 Data Engineering & Cloud
+Apache Kafka · AWS (EC2, S3, Glue, Athena, SageMaker) · Azure · SQL · ETL Pipelines  
+Focus: Real-time data ingestion, data modeling, and scalable analytics infrastructure.
+
+#### 🌐 Web & Automation
+FastAPI · React · Streamlit · n8n · Docker · Kubernetes · Git · CI/CD  
+Focus: Deploying data-driven applications, building automation workflows, and MLOps integration.
 
 ---
 
 ### 🧠 Experience Highlights
 
 - **Data Intern – Syracuse University**  
-  Automated descriptive analytics pipelines on U.S. Election data and sports datasets using GPT-4 and Groq models.
 
 - **Data Analyst Intern – iConsult Collaborative**  
-  Built interactive Power BI dashboards integrating Paycom, Therap, and Sage data — cutting consolidation time by **40%**.
 
 - **Data Scientist Intern – TAM Media Research**  
-  Designed NLP-driven content clustering with MiniLM + ChromaDB, automating data collection and saving **80%** manual effort.
 
 - **Global IT Intern – Colgate-Palmolive**  
-  Automated SAP regression tests using ALM and VBA, shortening QA cycles by **20%**.
 
 ---
 
@@ -60,7 +64,6 @@
 
 #### 💹 [Automated Financial Summarizer](https://github.com/Manalipc10)
 Transforms live financial data into concise insights using **Groq + OpenAI + n8n** pipelines.  
-→ Reduced manual reporting time by **90%** through structured prompt orchestration.
 
 #### 🧘 [Mental Health Chatbot](https://github.com/Manalipc10)
 An empathetic AI assistant built with **FastAPI, React, and LlamaIndex**, designed for context-aware mental health conversations.
@@ -86,15 +89,18 @@ A real-time **Kafka + AWS** pipeline streaming 1K+ market records/sec for low-la
 
 ---
 
-### 💬 Let’s Connect
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=600&color=8A2BE2&center=true&vCenter=true&width=450&lines=Let's+Connect!;Collaborate%2C+Learn%2C+and+Build+together!;Reach+out+anytime+👋" />
+</h2>
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/manali-chaudhari/"><img src="https://img.shields.io/badge/-Manali%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:manalipc1011@gmail.com"><img src="https://img.shields.io/badge/-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://portfolio-manali-chaudhari.vercel.app/"><img src="https://img.shields.io/badge/-Visit%20My%20Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/manali-chaudhari/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:manalipc1011@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://portfolio-manali-chaudhari.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://github.com/Manalipc10"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
+
+<p align="center">💌 Drop a message — I’d love to connect, brainstorm, and share ideas!</p>
+
 
 ---
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
-</p>
