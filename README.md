@@ -7,7 +7,7 @@
 <h1 align="center">✨ Hey, I’m <span style="color:#8A2BE2;">Manali Chaudhari</span> ✨</h1>
 
 <p align="center">
-  <em>Data Scientist | AI Engineer | Turning raw data into intelligent systems</em>
+  <em>Data Analyst | Data Scientist | BI Engineer | Turning raw data into intelligent systems</em>
 </p>
 
 <p align="center">
