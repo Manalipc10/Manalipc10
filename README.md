@@ -1,10 +1,6 @@
-<!-- HEADER -->
-<div align="center">
-  <img src="https://github.com/Manalipc10/Manalipc10/blob/main/header-github.svg" width="100%" alt="Header banner">
-</div>
 
 <!-- INTRO -->
-<h1 align="center">✨ Hey, I’m <span style="color:#8A2BE2;">Manali Chaudhari</span> ✨</h1>
+<h1 align="center"> Hey, I’m <span style="color:#8A2BE2;">Manali Chaudhari</span> </h1>
 
 <p align="center">
   <em>Data Analyst | Data Scientist | BI Engineer | Turning raw data into intelligent systems</em>
@@ -18,11 +14,12 @@
 
 ---
 
-### 💫 About Me
+# 💫 About Me
 
-🎓 Graduate Student at **Syracuse University** (M.S. in Information Systems)  
-🧩 Passionate about **AI-powered analytics, automation, and large language models**  
-💡 I love crafting projects that merge **data storytelling**, **ML pipelines**, and **creative engineering**
+🎓 Graduate Student at **Syracuse University** pursuing an M.S. in **Information Systems**, specializing in **data analytics and business intelligence**.  
+📊 Passionate about transforming complex datasets into actionable insights through **data visualization**, **statistical modeling**, and **automation**.  
+💡 Skilled in building scalable **data pipelines**, developing **interactive Power BI dashboards**, and applying **machine learning** for decision-driven outcomes.  
+🚀 I enjoy working at the intersection of **data science, analytics, and storytelling** — turning numbers into narratives that drive business strategy.
 
 > "I believe great data products should *not only predict outcomes — but narrate insight.*"
 
