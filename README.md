@@ -1,8 +1,7 @@
-<!-- HEADER SECTION -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=220&section=header&text=Hi%20there,%20I'm%20Manali%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
-</p>
-
+<!-- HEADER -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=30&duration=4000&pause=800&color=9B59B6&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Manali+Chaudhari+👋;Data+Scientist+%7C+AI+Engineer+%7C+Analyst;Transforming+data+into+intelligence!" alt="Typing SVG" />
+</div>
 <!-- ABOUT -->
 <h2 align="center">💡 About Me</h2>
 
