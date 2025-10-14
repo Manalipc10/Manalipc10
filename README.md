@@ -14,7 +14,7 @@
 
 ---
 
-# 💫 About Me
+### About Me
 
 🎓 Graduate Student at **Syracuse University** pursuing an M.S. in **Information Systems**, specializing in **data analytics and business intelligence**.  
 📊 Passionate about transforming complex datasets into actionable insights through **data visualization**, **statistical modeling**, and **automation**.  
