@@ -1,56 +1,73 @@
+<!-- HEADER SECTION -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=220&section=header&text=Hi%20there,%20I'm%20Manali%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
+</p>
 
+<!-- ABOUT -->
+<h2 align="center">💡 About Me</h2>
 
- <img src="https://capsule-render.vercel.app/api?type=waving&color=&auto&height=300&section=header&text=Glad%20you%20found%20me%20here!&fontSize=50" />
- 
-# 👋 Hi, I'm Manali Chaudhari
-
-🎓 Graduate Student at **Syracuse University** (M.S. in Information Systems)  
-💡 Passionate about building **data-driven and intelligent systems** that bridge AI, analytics, and automation.  
-🌟 I love transforming complex data into actionable insights through creative problem-solving and scalable pipelines.
-
----
-
-## 🧠 What I Do
-- **Data Science & ML:** EDA, predictive modeling, and NLP using Python, Scikit-learn, and Hugging Face  
-- **Data Engineering:** Kafka-based streaming, AWS data pipelines (EC2, S3, Glue, Athena)  
-- **Analytics & Visualization:** Power BI, Tableau, and automated dashboards for decision-making  
-- **AI Workflow Orchestration:** n8n, LangChain, LlamaIndex, and Groq for building agentic pipelines  
-- **Web & Cloud Development:** FastAPI, React, Docker, and Kubernetes for deploying AI applications  
+<p align="center">
+🎓 Graduate Student at <b>Syracuse University</b> (M.S. in Information Systems) <br>
+🧠 Passionate about <b>Data Science, Machine Learning, and AI-driven automation</b> <br>
+🚀 Building data pipelines, visual dashboards, and intelligent systems that create real-world impact.
+</p>
 
 ---
 
-## 🔭 Current Work
-- 🧮 **Data Intern @ Syracuse University**  
+<h2 align="center">🧠 Skills & Technologies</h2>
 
-## 🚀 Featured Projects
-
-### 🧾 [Automated Financial Summarizer](https://github.com/Manalipc10)
-**Python | JavaScript | n8n | Groq | OpenAI**  
-Transformed live stock and news data into structured insights using LLMs and n8n automation, reducing manual reporting by 90%.
-
-### 🧠 [Mental Health Chatbot](https://github.com/Manalipc10)
-**FastAPI | React | Hugging Face | LlamaIndex**  
-AI-powered chatbot for mental health conversations with context-aware retrieval and grounded responses.
-
-### 📈 [StockFlow: Kafka-Powered Market Stream](https://github.com/Manalipc10)
-**Kafka | AWS EC2 | S3 | Glue | Athena**  
-Developed a real-time stock ingestion pipeline streaming 1,000+ records/sec with automated analytics via AWS Athena.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,r,cpp,js,react,html,css,fastapi,aws,docker,kubernetes,git,github,powerbi,sqlite&theme=light" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+<h2 align="center">📈 Experience Highlights</h2>
 
-**Languages:** Python, R, SQL, JavaScript, TypeScript, C++, VBA  
-**Frameworks:** FastAPI, React, Streamlit  
-**Data Tools:** Power BI, Tableau, Pandas, NumPy, Matplotlib  
-**Cloud & DevOps:** AWS (EC2, S3, Lambda, Glue, Athena), Docker, Kubernetes  
-**AI & Automation:** Hugging Face, OpenAI, Groq, n8n, LlamaIndex, ChromaDB  
+- **Data Intern – Syracuse University** → Built multi-strategy descriptive analytics pipelines for 2024 election data and sports datasets using GPT-4 & Groq.  
+- **Data Analyst Intern – iConsult Collaborative** → Created Power BI dashboards integrating Paycom, Therap, and Sage data, cutting consolidation time by 40%.  
+- **Data Scientist Intern – TAM Media Research** → Automated NLP-based content clustering via Hugging Face + ChromaDB, reducing manual reporting by 80%.  
+- **Global IT Intern – Colgate-Palmolive** → Automated SAP QA workflows via VBA + ALM, cutting regression cycles by 20%.  
 
 ---
 
-## 📊 GitHub Stats
-![Manali's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manalipc10&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manalipc10&layout=compact&theme=tokyonight)
+<h2 align="center">🚀 Projects</h2>
+
+🌐 **[Automated Financial Summarizer](https://github.com/Manalipc10)**  
+→ n8n + Groq + OpenAI workflow that turns live financial data into concise summaries.  
+🕒 Reduced manual reporting time by **90%** with JSON-based LLM orchestration.  
+
+🤖 **[Mental Health Chatbot](https://github.com/Manalipc10)**  
+→ FastAPI + React + LlamaIndex chatbot powered by Groq LLaMA 3.1 for empathetic and context-aware responses.  
+
+📊 **[StockFlow: Kafka-Powered Market Stream](https://github.com/Manalipc10)**  
+→ Real-time Kafka pipeline deployed on AWS (EC2, S3, Glue, Athena) to stream 1K+ market records/sec for analytics.  
+
+---
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Manalipc10&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manalipc10&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+---
+
+<h2 align="center">🌐 Connect With Me</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/manali-chaudhari/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"></a>
+  <a href="mailto:manalipc1011@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"></a>
+  <a href="https://portfolio-manali-chaudhari.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-8A2BE2?logo=vercel&logoColor=white"></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
+</p>
+
 
 ---
 
