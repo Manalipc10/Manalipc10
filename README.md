@@ -1,9 +1,8 @@
-
 <!-- INTRO -->
-<h1 align="center"> Hey, I’m <span style="color:#8A2BE2;">Manali Chaudhari</span> </h1>
+<h1 align="center">Hey, I’m <span style="color:#8A2BE2;">Manali Chaudhari</span></h1>
 
 <p align="center">
-  <em>Data Analyst | Data Scientist | BI Engineer | Turning raw data into intelligent systems</em>
+  <em>Data Analyst | Business Intelligence | Growth & Product Analytics</em>
 </p>
 
 <p align="center">
@@ -16,76 +15,81 @@
 
 ### About Me
 
-🎓 Graduate Student at **Syracuse University** pursuing an M.S. in **Information Systems**, specializing in **data analytics and business intelligence**.  
-📊 Passionate about transforming complex datasets into actionable insights through **data visualization**, **statistical modeling**, and **automation**.  
-💡 Skilled in building scalable **data pipelines**, developing **interactive Power BI dashboards**, and applying **machine learning** for decision-driven outcomes.  
-🚀 I enjoy working at the intersection of **data science, analytics, and storytelling** — turning numbers into narratives that drive business strategy.
+I am an analyst who works with messy, real-world data to drive product, marketing, and business decisions. I have experience building SQL pipelines, Power BI dashboards, and analytical frameworks across marketing, finance, and product datasets, including attribution, funnel analysis, customer segmentation, and KPI reporting.
 
-> "I believe great data products should *not only predict outcomes — but narrate insight.*"
+My work has focused on turning ambiguous business questions into structured analysis, improving reporting reliability, and delivering insights that teams can act on. I enjoy combining technical depth with business context to solve real problems through data.
 
 ---
 
-### ⚙️ What I Work With
+### What I Work With
 
-#### 🧠 Data Science & Machine Learning
-Python · R · Scikit-learn · Pandas · NumPy · Matplotlib · Hugging Face · Groq · OpenAI · LlamaIndex  
-Focus: Predictive modeling, NLP pipelines, semantic retrieval, and feature engineering.
+#### Data Analysis & Business Intelligence
+Python · SQL · R · Power BI · Tableau · Excel · DAX · Power Query  
+Focus: KPI reporting, dashboard design, data validation, anomaly detection, and business performance analysis
 
-#### 📊 Data Analysis & Business Intelligence
-Power BI · Tableau · Excel · DAX · Power Query · SQL · Statistical Analysis  
-Focus: Dashboard design, KPI modeling, trend forecasting, and data storytelling for business stakeholders.
+#### Growth & Product Analytics
+Funnel Analysis · Cohort Analysis · Attribution Modeling · Customer Segmentation · CRO · Variance Analysis  
+Focus: conversion analysis, retention insights, acquisition performance, and decision support
 
-#### 💾 Data Engineering & Cloud
-Apache Kafka · AWS (EC2, S3, Glue, Athena, SageMaker) · Azure · SQL · ETL Pipelines  
-Focus: Real-time data ingestion, data modeling, and scalable analytics infrastructure.
+#### Data & Analytics Engineering
+Pandas · Polars · NumPy · Scikit-learn · ETL Pipelines · AWS · Azure · Git · GitHub  
+Focus: data cleaning, workflow automation, scalable reporting pipelines, and analytics-ready datasets
 
-#### 🌐 Web & Automation
-FastAPI · React · Streamlit · n8n · Docker · Kubernetes · Git · CI/CD  
-Focus: Deploying data-driven applications, building automation workflows, and MLOps integration.
-
----
-
-### 🧠 Experience Highlights
-
-- **Data Intern – Syracuse University**  
-
-- **Data Analyst Intern – iConsult Collaborative**  
-
-- **Data Scientist Intern – TAM Media Research**  
-
-- **Global IT Intern – Colgate-Palmolive**  
+#### Visualization & Reporting
+Matplotlib · Streamlit · Power BI  
+Focus: stakeholder-facing reporting, trend analysis, and turning data into clear, actionable insights
 
 ---
 
-### 🚀 Projects I’m Proud Of
+### Experience Highlights
 
-#### 💹 [Automated Financial Summarizer](https://github.com/Manalipc10)
-Transforms live financial data into concise insights using **Groq + OpenAI + n8n** pipelines.  
-
-#### 🧘 [Mental Health Chatbot](https://github.com/Manalipc10)
-An empathetic AI assistant built with **FastAPI, React, and LlamaIndex**, designed for context-aware mental health conversations.
-
-#### 📈 [StockFlow: Kafka Market Stream](https://github.com/Manalipc10)
-A real-time **Kafka + AWS** pipeline streaming 1K+ market records/sec for low-latency financial analytics.
+- Built automation and qualification workflows for **100K+ B2B prospect records**, improving data quality and reducing manual effort by **65%**
+- Integrated payroll and revenue data from multiple systems into a unified **Power BI dashboard**, reducing processing time by **40%**
+- Developed optimized **SQL queries and DAX measures** to detect anomalies and improve forecast accuracy by **25%**
+- Built dashboards and churn analysis workflows on **1M+ CRM and transaction records**, supporting retention initiatives that retained **3,000+ customers**
+- Designed funnel analysis across **50K+ users**, uncovering key conversion bottlenecks across channels and devices
 
 ---
 
-### 🪄 Featured Tech Stack
+### Projects
+
+#### Marketing Funnel & Channel Conversion Analysis
+Built a funnel analysis framework across 50K+ users, identifying major conversion drop-offs by channel and device, and developed a Power BI dashboard to support acquisition and growth decisions.
+
+#### Launch Jury | Product & Growth Analytics Platform
+Built a data pipeline to process unstructured market data from Reddit and applied segmentation and funnel analysis to identify ICP, pricing sensitivity, and GTM risks.
+
+#### Sales & Customer Behavior Analytics
+Used SQL, CTEs, joins, and window functions to analyze churn, retention, customer behavior, and sales trends across retail datasets.
+
+---
+
+### Featured Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,react,fastapi,js,html,css,aws,docker,kubernetes,git,github,postman,powerbi&theme=light" />
+  <img src="https://skillicons.dev/icons?i=python,r,react,aws,docker,git,github&theme=light" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/DAX-0F6CBD?style=flat" />
+  <img src="https://img.shields.io/badge/Power%20Query-217346?style=flat" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Polars-CD792C?style=flat" />
 </p>
 
 ---
 
-### 📊 Stats That Tell My Story
+### GitHub Stats
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Manalipc10&show_icons=true&theme=tokyonight&hide_border=true&title_color=8A2BE2&icon_color=8A2BE2" height="180" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manalipc10&theme=tokyonight&hide_border=true&ring=8A2BE2&fire=8A2BE2" height="180" />
 </div>
 
-
-<p align="center">💌 Drop a message — I’d love to connect, brainstorm, and share ideas!</p>
-
-
 ---
+
+<p align="center">Open to Data Analyst, BI Analyst, Growth Analyst, and Product Analytics opportunities.</p>
+<p align="center">Let’s connect and build something impactful with data.</p>
